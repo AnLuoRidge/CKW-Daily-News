@@ -1,0 +1,41 @@
+<!-- Front -->
+
+<div align="center";><b>Ê±´ú¤Î¾ä±ä</b></div>
+<div style='font-family: Georgia; font-size: 20px;'>{{News}}</div> <!--align="justify"; -->
+
+<!-- Shared -->
+
+.card {
+ font-family: arial;
+ font-size: 20px;
+ color: black;
+ background-color: white;
+ line-height:1.5
+}
+
+@font-face { font-family: kt; src: url('_kt.ttf'); }
+
+.translations {
+	margin: 0em -1em 0em 0.2em;
+	font-family: Î¢ÈíÑÅºÚ;
+	text-align: left;
+	font-size: 18px;
+	text-indent:0em;
+	color:#555555;
+	padding: 0.5em 0.5em;
+}
+
+<!-- Back -->
+
+{{FrontSide}}
+
+<hr id=answer>
+
+
+<div style='font-family: Arial; font-size: 20px;'>{{Notes}}</div>
+
+<div class=translations style="border-left: 3px solid #338eca;">{{hint:Translations}}</div>
+
+<div style='font-family: kt; font-size: 20px;'>{{Comment}}</div>
+<br><br>
+<div  align="center"; style='font-family: kt; font-size: 15px;'>{{Copyright}}</div>
