@@ -9,3 +9,12 @@ This can be implemented by tag the comment by hand or NLP. (NSLinguisticTagger?)
 highlight words
 
 underline phrases
+
+完全匹配可以解决一部分，前段部分匹配解决直接加ed的类型
+如果词在末尾，句号也变色
+
+#Format checking
+mainly the space
+
+#Color
+朝暮 等处的变色
