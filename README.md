@@ -2,6 +2,7 @@
 Key words: I/O Files, NSString, Coding Conventions, CSS
 
 
+
 This project allows the user to convert 时代の句变, then import to Anki.
 
 For example:
@@ -35,3 +36,5 @@ For example:
 #Finally in Anki
 ![Word1](https://github.com/AnLuoRidge/CKW-Daily-News/blob/master/Word%201.png)
 ![Word2](https://github.com/AnLuoRidge/CKW-Daily-News/blob/master/Word%202.png)
+
+For more pics, plz visit [如何优雅地复习句变？](http://www.jianshu.com/p/71309994780e)
