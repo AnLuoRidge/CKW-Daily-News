@@ -3,7 +3,7 @@ According to [the minimum information principle](http://www.supermemo.com/articl
 The second explaination will merge with first one, or create a branch of entry.
 Then the comment field will be pure.
 
-This can be implemented by tag the comment by hand or NLP.
+This can be implemented by tag the comment by hand or NLP. (NSLinguisticTagger?)
 
 #Auto highlight
 highlight words
